@@ -1,0 +1,84 @@
+
+email update
+I’m sorry, we don’t have this feature at moment. We do intend to add it to our service and we can notify you when it has been done. Would you like to receive an email update?
+
+
+find
+Let me find out for you. May I have your email/phone number? I will find this out with our technical department and get back to you shortly.
+
+
+goodbye
+Thanks for chatting with us. Have we resolved your question(s)?
+Yes
+No
+
+
+hello
+Hello. May I know your name please?
+
+
+help
+Do you need any help?
+Yes
+No
+
+
+help1
+How can I help you?
+
+
+help2
+Is there anything else I might help you with today?
+
+
+hi
+Hi, how can we help you today?
+
+
+problem
+I understand the problem and will be happy to help you.
+
+
+query
+Can you mention your query in detail?
+
+
+questions arise
+If any other questions arise, please feel free to contact us at any time.
+
+
+requirements
+May I know what exactly your requirements are?
+
+
+requirements 1
+Tell me more about your requirements?
+
+
+resolved queries
+Hope we resolved all your queries! Our support team will be more than happy to help.
+
+
+returning
+Welcome back. How can we help you today
+
+
+solution
+I am really sorry this has happened. Let me see if I can find a solution to it
+
+
+thank you for chatting
+Thank you for chatting with us today. Have a nice day. Good bye
+
+
+thank you for waiting
+Thank you for waiting. I have the details of your requirement, let me send it over to you
+
+
+waiting
+Would you mind waiting a few seconds while I am checking this with our administrator?
+
+
+waiting1
+I’m sorry to keep you waiting. I have managed to reproduce the problem. Here’s what needs to be done to fix it.
+
